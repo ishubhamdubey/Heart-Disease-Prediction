@@ -1,5 +1,7 @@
 # Heart Attack Risk Prediction from Retinal Images
 
+Note: This repository is published as "Heart-Disease-Prediction" on GitHub.
+
 An end-to-end (prototype) machine learning pipeline to estimate heart attack risk using retinal (fundus) images. The current version supports:
 
 ## What’s Inside
